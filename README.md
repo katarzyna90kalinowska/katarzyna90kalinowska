@@ -1,6 +1,6 @@
 ### 👋 Cześć! Jestem Kasia – Aspirująca Analityk Danych (Junior Data Analyst)
 
-Moja ścieżka zawodowa – od pracy na magazynie, przez doświadczenie w zaopatrzeniu i analizach, po prowadzenie własnego biznesu – dała mi to, w czym czuję się najsilniejsza: **doskonałe zrozumienie realiów biznesowych, logistycznych i produkcyjnych oraz umiejętność wyciągania wniosków z danych**. 
+Moja ścieżka zawodowa – od pracy na magazynie, przez doświadczenie w zaopatrzeniu i analizie danych, po prowadzenie własnego biznesu – dała mi to, w czym czuję się najsilniejsza: **doskonałe zrozumienie realiów biznesowych, logistycznych i produkcyjnych oraz umiejętność wyciągania wniosków z danych**. 
 
 Naturalnym krokiem w moim rozwoju zawodowym jest pełne przejście w stronę analityki danych. Łączę operacyjne doświadczenie z solidnym zapleczem akademickim i technicznym, by dostarczać rzetelne analizy ułatwiające podejmowanie decyzji.
 
