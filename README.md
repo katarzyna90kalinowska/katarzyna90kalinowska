@@ -23,7 +23,7 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
 2. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN)**
    * **Opis:** Samodzielny, obszerny projekt obejmujący szczegółowe mapowanie, optymalizację i analizę procesów biznesowych i produkcyjnych.
    * **Narzędzia:** Standard BPMN, oprogramowanie do modelowania procesów.
-   * **[Link do dokumentacji projektu BPMN]**
+   * **[Dokumentacja Procesów Biznesowych (BPMN / ADONIS)](https://github.com/katarzyna90kalinowska/Modelowanie_Procesow_BPMN_ADONIS/blob/main/README.md)**
 
 3. **📈 Zaawansowane Modele Analityczne i Miary DAX (Power BI & Excel)**
    * **Opis:** Zbiór zaawansowanych zadań kursowych i projektowych skupionych na modelowaniu relacyjnym, pisaniu miar DAX (Time Intelligence) oraz analizie statystycznej (m.in. korelacje Spearmana i wieloraka).
