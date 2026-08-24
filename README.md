@@ -1,16 +1,42 @@
-## Hi there 👋
+### 👋 Cześć! Jestem Kasia – Aspirująca Analityk Danych (Junior Data Analyst)
 
-<!--
-**katarzyna90kalinowska/katarzyna90kalinowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moja ścieżka zawodowa – od pracy na magazynie, przez doświadczenie w zaopatrzeniu i analizach, po prowadzenie własnego biznesu – dała mi to, w czym czuję się najsilniejsza: **doskonałe zrozumienie realiów biznesowych, logistycznych i produkcyjnych oraz umiejętność wyciągania wniosków z danych**. 
 
-Here are some ideas to get you started:
+Naturalnym krokiem w moim rozwoju zawodowym jest pełne przejście w stronę analityki danych. Łączę operacyjne doświadczenie z solidnym zapleczem akademickim i technicznym, by dostarczać rzetelne analizy ułatwiające podejmowanie decyzji.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📈 **Doświadczenie operacyjne i biznesowe:** Praktyka w obszarze zaopatrzenia i analiz, logistyki (magazyn) oraz zarządzania własną działalnością (studio reklamy).
+* 🎓 **Wykształcenie kierunkowe:** Podwójna specjalizacja na studiach magisterskich: **Analiza danych** oraz **Cyfryzacja i automatyzacja procesów produkcyjnych**, uzupełniona studiami podyplomowymi z **Data Science**.
+* 💻 **Stack technologiczny:** SQL, Python (Pandas, NumPy), R, Power BI, zaawansowany Excel, statystyka oraz MongoDB.
+* ⚙️ **Automatyzacja i Procesy:** Modelowanie procesów (BPMN), automatyzacja operacji (Zapier, Python) oraz wizualizacja danych (Power BI).
+
+Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodzi mi najlepiej: transformacji danych w użyteczną wiedzę biznesową. Zapraszam do zapoznania się z moimi projektami poniżej!
+
+---
+
+### 🚀 Wybrane Projekty Portfolio
+
+1. **📊 Wpływ automatyzacji, AI i analizy danych na efektywność w organizacji (Praca Magisterska)**
+   * **Opis:** Projekt badawczo-analityczny oparty na zbieraniu i analizie danych, wsparty automatyzacją procesów (przepływ w Zapierze) oraz interaktywną wizualizacją wyników w Power BI.
+   * **Narzędzia:** Power BI, Zapier, Excel, Statystyka.
+   * **[Link do podglądu / screenów dashboardu]**
+
+2. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN)**
+   * **Opis:** Samodzielny, obszerny projekt obejmujący szczegółowe mapowanie, optymalizację i analizę procesów biznesowych i produkcyjnych.
+   * **Narzędzia:** Standard BPMN, oprogramowanie do modelowania procesów.
+   * **[Link do dokumentacji projektu BPMN]**
+
+3. **📈 Zaawansowane Modele Analityczne i Miary DAX (Power BI & Excel)**
+   * **Opis:** Zbiór zaawansowanych zadań kursowych i projektowych skupionych na modelowaniu relacyjnym, pisaniu miar DAX (Time Intelligence) oraz analizie statystycznej (m.in. korelacje Spearmana i wieloraka).
+   * **Narzędzia:** Power BI (DAX), Excel (zaawansowane analizy).
+   * **[Link do folderu z zadaniami]**
+
+4. **🤖 Automatyzacja Raportów i Operacji w Pythonie**
+   * **Opis:** Autorski skrypt w Pythonie dzielący duże pliki raportów na dedykowane pliki Excel, obliczający sumy netto i masowo wysyłający spersonalizowane maile do kontrahentów przez serwer SMTP.
+   * **Narzędzia:** Python (Pandas, Smtplib), SMTP.
+   * **[Link do kodu na GitHubie]**
+
+---
+
+### 📫 Skontaktuj się ze mną:
+* **LinkedIn:** [www.linkedin.com/in/katarzyna90kalinowska]
+* **E-mail:** katarzyna90.kalinowska@wp.pl
