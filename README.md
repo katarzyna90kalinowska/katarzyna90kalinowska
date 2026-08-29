@@ -30,42 +30,47 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
    * **Narzędzia:** Excel (Analiza kosztów i ROI), Inżynieria produkcji, Symulacja stanowiska[cite: 8].
    * **[Zobacz projekt robotyzacji na GitHubie](https://github.com/katarzyna90kalinowska/Robotics_and_Palletization_Investment_Project)**
 
-4. **📈 Statistical Analysis & Hypothesis Testing Portfolio**
-   * **Opis:** Połączony projekt statystyczny obejmujący analizę opisową bezrobocia w Polsce (dane GUS 1990-2024 z histogramami i wykresami pudełkowymi)[cite: 10] oraz zestawienie testów nieparametrycznych (wilcoxona, Manna-Whitneya, Kruskala-Wallisa)[cite: 11, 12].
+4. **📈 Strategic Management & Business Analysis Portfolio (Wawel S.A.)**
+   * **Opis:** Kompleksowa analiza strategiczna przedsiębiorstwa (Wawel S.A.), obejmująca analizę 5 sił Portera, makrootoczenia (PEST i scenariusze), potencjału wewnętrznego (macierz BCG, KCS), macierz SWOT (pozycja Maxi-Maxi) oraz etykę w biznesie.
+   * **Narzędzia:** Analiza strategiczna, Zarządzanie biznesowe, Ocena konkurencyjności.
+   * **[Zobacz analizę strategiczną na GitHubie](https://github.com/katarzyna90kalinowska/Strategic_Management_Business_Analysis)**
+
+5. **📈 Statistical Analysis & Hypothesis Testing Portfolio**
+   * **Opis:** Połączony projekt statystyczny obejmujący analizę opisową bezrobocia w Polsce (dane GUS 1990-2024 z histogramami i wykresami pudełkowymi)[cite: 10] oraz zestawienie testów nieparametrycznych (Wilcoxona, Manna-Whitneya, Kruskala-Wallisa)[cite: 11, 12].
    * **Narzędzia:** Statystyka opisowa, Testowanie hipotez, Wizualizacje danych[cite: 10, 11, 12].
    * **[Zobacz projekt statystyczny na GitHubie](https://github.com/katarzyna90kalinowska/Statistical_Analysis_and_Hypothesis_Testing)**
 
-5. **📈 R Multidimensional Scaling & Salary Analysis**
+6. **📈 R Multidimensional Scaling & Salary Analysis**
    * **Opis:** Zaawansowana analiza statystyczna zróżnicowania wynagrodzeń w Polsce wg województw. Wykorzystanie skalowania wielowymiarowego (MDS / SMACOF), normalizacji ilorazowej oraz oceny dopasowania modelu[cite: 4, 7].
    * **Narzędzia:** R (`smacof`, `clusterSim`)[cite: 7], Statystyka wielowymiarowa.
    * **[Zobacz projekt MDS w R na GitHubie](https://github.com/katarzyna90kalinowska/R_Multidimensional_Scaling_Salary_Analysis)**
 
-6. **📊 R Basics & Matrix Operations**
+7. **📊 R Basics & Matrix Operations**
    * **Opis:** Zbiór skryptów w R obejmujący operacje na macierzach, transformacje wektorów, podstawowe funkcje matematyczne oraz modelowanie liniowe (`lm`) na zbiorze `mtcars`[cite: 1, 2, 3].
    * **Narzędzia:** R, Statystyka opisowa, Regresja liniowa[cite: 1].
    * **[Zobacz skrypty R na GitHubie](https://github.com/katarzyna90kalinowska/R_Basics_and_Matrix_Operations)**
 
-7. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
+8. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
    * **Opis:** Samodzielny, obszerny projekt obejmujący szczegółowe mapowanie, optymalizację i analizę procesów biznesowych i produkcyjnych.
    * **Narzędzia:** Standard BPMN, ADONIS.
    * **[Dokumentacja Procesów Biznesowych](https://github.com/katarzyna90kalinowska/Business_Process_Modeling_BPMN)**
 
-8. **🤖 Automatyzacja Raportów i Operacji w Pythonie**
+9. **🤖 Automatyzacja Raportów i Operacji w Pythonie**
    * **Opis:** Autorski skrypt w Pythonie dzielący duże pliki raportów na dedykowane pliki Excel, obliczający sumy netto i masowo wysyłający spersonalizowane maile do kontrahentów przez serwer SMTP.
    * **Narzędzia:** Python (Pandas, Smtplib), SMTP.
    * **[Sprawdź kod skryptu na GitHubie](https://github.com/katarzyna90kalinowska/Python_Quarterly_Reporting_Automation)**
 
-9. **💼 Automatyczne Raportowanie Zakupów (Excel VBA)**
-   * **Opis:** Zaawansowane narzędzie makro VBA automatyzujące generowanie zestawień zakupowych dla dostawców, obsługę dynamicznych filtrów oraz integrację z klientem pocztowym.
-   * **Narzędzia:** Excel VBA, Automatyzacja mailowa.
-   * **[Zobacz projekt VBA na GitHubie](https://github.com/katarzyna90kalinowska/Automated_Procurement_Reporting_VBA)**
+10. **💼 Automatyczne Raportowanie Zakupów (Excel VBA)**
+    * **Opis:** Zaawansowane narzędzie makro VBA automatyzujące generowanie zestawień zakupowych dla dostawców, obsługę dynamicznych filtrów oraz integrację z klientem pocztowym.
+    * **Narzędzia:** Excel VBA, Automatyzacja mailowa.
+    * **[Zobacz projekt VBA na GitHubie](https://github.com/katarzyna90kalinowska/Automated_Procurement_Reporting_VBA)**
 
-10. **🗄️ SQL Data Analysis Portfolio**
+11. **🗄️ SQL Data Analysis Portfolio**
     * **Opis:** Zbiór zaawansowanych zapytań SQL opartych na bazach relacyjnych (Northwind), obejmujący filtrowanie, agregacje, łączenia tabel (`JOIN`) oraz zaawansowane funkcje okna (`OVER`, `PARTITION BY`).
     * **Narzędzia:** SQL, Relacyjne bazy danych.
     * **[Zobacz zapytania SQL na GitHubie](https://github.com/katarzyna90kalinowska/SQL_Data_Analysis_Portfolio)**
 
-11. **🍃 NoSQL MongoDB Database Project**
+12. **🍃 NoSQL MongoDB Database Project**
     * **Opis:** Projekt bazy danych NoSQL wdrożonej w kontenerze Docker, zawierający kolekcje z zagnieżdżonymi dokumentami o zróżnicowanej strukturze oraz operacje wstawiania i przeszukiwania danych.
     * **Narzędzia:** MongoDB, Docker, NoSQL.
     * **[Zobacz projekt MongoDB na GitHubie](https://github.com/katarzyna90kalinowska/NoSQL_MongoDB_Database_Project)**
