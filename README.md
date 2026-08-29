@@ -16,8 +16,8 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
 ### 🚀 Wybrane Projekty Portfolio
 
 1. **📊 Wpływ automatyzacji, AI i analizy danych na efektywność w organizacji (Praca Magisterska)**
-   * **Opis:** Projekt badawczo-analityczny oparty na zbieraniu i analizie danych, wsparty automatyzacją procesów (przepływ w Zapierze) oraz interaktywną wizualizacją wyników w Power BI.
-   * **Narzędzia:** Power BI, Zapier, Excel, Statystyka.
+   * **Opis:** Projekt badawczo-analityczny oparty na zbieraniu i analizie danych, wsparty automatyzacją procesów no-code (integracja Google Forms z Gmail w systemie Zapier) oraz interaktywną wizualizacją wyników w Power BI.
+   * **Narzędzia:** Power BI, Zapier (Google Forms -> Gmail), Excel, Statystyka.
    * **[Zobacz raport i podgląd w Power BI](https://github.com/katarzyna90kalinowska/Magisterka_Analiza_Efektywnosci_PowerBI)**
 
 2. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
