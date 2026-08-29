@@ -15,35 +15,35 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
 
 ### 🚀 Wybrane Projekty Portfolio
 
-1. **📊 Wpływ automatyzacji, AI i analizy danych na efektywność w organizacji (Praca Magisterska)**
-   * **Opis:** Projekt badawczo-analityczny oparty na zbieraniu i analizie danych, wsparty automatyzacją procesów no-code (integracja Google Forms z Gmail w systemie Zapier) oraz interaktywną wizualizacją wyników w Power BI.
-   * **Narzędzia:** Power BI, Zapier (Google Forms -> Gmail), Excel, Statystyka.
-   * **[Zobacz raport i podgląd w Power BI](https://github.com/katarzyna90kalinowska/Magisterka_Analiza_Efektywnosci_PowerBI)**
+1. **📊 Wpływ automatyzacji, AI i analizy danych na efektywność w organizacji (Praca Magisterska - Power BI & Zapier)**
+   * **Opis:** Projekt badawczo-analityczny oparty na zbieraniu danych (automatyzacja no-code: Google Forms -> Gmail w systemie Zapier) oraz interaktywnej wizualizacji wyników i wskaźników KPI w Power BI.
+   * **Narzędzia:** Power BI, Zapier, Excel, Statystyka.
+   * **[Zobacz raport i podgląd w Power BI](https://github.com/katarzyna90kalinowska/PowerBI_Master_Thesis_Analytics)**
 
 2. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
    * **Opis:** Samodzielny, obszerny projekt obejmujący szczegółowe mapowanie, optymalizację i analizę procesów biznesowych i produkcyjnych.
    * **Narzędzia:** Standard BPMN, ADONIS.
-   * **[Dokumentacja Procesów Biznesowych](https://github.com/katarzyna90kalinowska/Modelowanie_Procesow_BPMN_ADONIS)**
+   * **[Dokumentacja Procesów Biznesowych](https://github.com/katarzyna90kalinowska/Master_Thesis_Data_Analytics_and_Automation)**
 
 3. **🤖 Automatyzacja Raportów i Operacji w Pythonie**
    * **Opis:** Autorski skrypt w Pythonie dzielący duże pliki raportów na dedykowane pliki Excel, obliczający sumy netto i masowo wysyłający spersonalizowane maile do kontrahentów przez serwer SMTP.
    * **Narzędzia:** Python (Pandas, Smtplib), SMTP.
-   * **[Sprawdź kod skryptu na GitHubie](https://github.com/katarzyna90kalinowska/Python-Quarterly-Reporting-Automation)**
+   * **[Sprawdź kod skryptu na GitHubie](https://github.com/katarzyna90kalinowska/Python_Quarterly_Reporting_Automation)**
 
 4. **💼 Automatyczne Raportowanie Zakupów (Excel VBA)**
    * **Opis:** Zaawansowane narzędzie makro VBA automatyzujące generowanie zestawień zakupowych dla dostawców, obsługę dynamicznych filtrów oraz integrację z klientem pocztowym.
    * **Narzędzia:** Excel VBA, Automatyzacja mailowa.
-   * **[Zobacz projekt VBA na GitHubie](https://github.com/katarzyna90kalinowska/Automatyczne-Raportowanie-Zakupów-VBA)**
+   * **[Zobacz projekt VBA na GitHubie](https://github.com/katarzyna90kalinowska/Automated_Procurement_Reporting_VBA)**
 
 5. **🗄️ SQL Data Analysis Portfolio**
    * **Opis:** Zbiór zaawansowanych zapytań SQL opartych na bazach relacyjnych (Northwind), obejmujący filtrowanie, agregacje, łączenia tabel (`JOIN`) oraz zaawansowane funkcje okna (`OVER`, `PARTITION BY`).
    * **Narzędzia:** SQL, Relacyjne bazy danych.
-   * **[Zobacz zapytania SQL na GitHubie](https://github.com/katarzyna90kalinowska/SQL-Data-Analysis-Portfolio)**
+   * **[Zobacz zapytania SQL na GitHubie](https://github.com/katarzyna90kalinowska/SQL_Data_Analysis_Portfolio)**
 
 6. **🍃 NoSQL MongoDB Database Project**
    * **Opis:** Projekt bazy danych NoSQL wdrożonej w kontenerze Docker, zawierający kolekcje z zagnieżdżonymi dokumentami o zróżnicowanej strukturze oraz operacje wstawiania i przeszukiwania danych.
    * **Narzędzia:** MongoDB, Docker, NoSQL.
-   * **[Zobacz projekt MongoDB na GitHubie](https://github.com/katarzyna90kalinowska/NoSQL-MongoDB-Database-Project)**
+   * **[Zobacz projekt MongoDB na GitHubie](https://github.com/katarzyna90kalinowska/NoSQL_MongoDB_Database_Project)**
 
 ---
 
