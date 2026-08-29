@@ -21,31 +21,36 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
    * **[Zobacz raport i podgląd w Power BI](https://github.com/katarzyna90kalinowska/PowerBI_Master_Thesis_Analytics)**
 
 2. **📈 R Multidimensional Scaling & Salary Analysis**
-   * **Opis:** Zaawansowana analiza statystyczna zróżnicowania wynagrodzeń w Polsce wg województw. Wykorzystanie skalowania wielowymiarowego (MDS / SMACOF), normalizacji ilorazowej, diagramów Sheparda oraz oceny dopasowania modelu.
-   * **Narzędzia:** R (pakiet `smacof`, `clusterSim`), Statystyka wielowymiarowa.
+   * **Opis:** Zaawansowana analiza statystyczna zróżnicowania wynagrodzeń w Polsce wg województw. Wykorzystanie skalowania wielowymiarowego (MDS / SMACOF), normalizacji ilorazowej oraz oceny dopasowania modelu.
+   * **Narzędzia:** R (`smacof`, `clusterSim`), Statystyka wielowymiarowa.
    * **[Zobacz projekt MDS w R na GitHubie](https://github.com/katarzyna90kalinowska/R_Multidimensional_Scaling_Salary_Analysis)**
 
-3. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
+3. **📊 R Basics & Matrix Operations**
+   * **Opis:** Zbiór skryptów w R obejmujący operacje na macierzach, transformacje wektorów, podstawowe funkcje matematyczne oraz modelowanie liniowe (`lm`) na zbiorze `mtcars`.
+   * **Narzędzia:** R, Statystyka opisowa, Regresja liniowa.
+   * **[Zobacz skrypty R na GitHubie](https://github.com/katarzyna90kalinowska/R_Basics_and_Matrix_Operations)**
+
+4. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
    * **Opis:** Samodzielny, obszerny projekt obejmujący szczegółowe mapowanie, optymalizację i analizę procesów biznesowych i produkcyjnych.
    * **Narzędzia:** Standard BPMN, ADONIS.
-   * **[Dokumentacja Procesów Biznesowych](https://github.com/katarzyna90kalinowska/Master_Thesis_Data_Analytics_and_Automation)**
+   * **[Dokumentacja Procesów Biznesowych](https://github.com/katarzyna90kalinowska/Business_Process_Modeling_BPMN)**
 
-4. **🤖 Automatyzacja Raportów i Operacji w Pythonie**
+5. **🤖 Automatyzacja Raportów i Operacji w Pythonie**
    * **Opis:** Autorski skrypt w Pythonie dzielący duże pliki raportów na dedykowane pliki Excel, obliczający sumy netto i masowo wysyłający spersonalizowane maile do kontrahentów przez serwer SMTP.
    * **Narzędzia:** Python (Pandas, Smtplib), SMTP.
    * **[Sprawdź kod skryptu na GitHubie](https://github.com/katarzyna90kalinowska/Python_Quarterly_Reporting_Automation)**
 
-5. **💼 Automatyczne Raportowanie Zakupów (Excel VBA)**
+6. **💼 Automatyczne Raportowanie Zakupów (Excel VBA)**
    * **Opis:** Zaawansowane narzędzie makro VBA automatyzujące generowanie zestawień zakupowych dla dostawców, obsługę dynamicznych filtrów oraz integrację z klientem pocztowym.
    * **Narzędzia:** Excel VBA, Automatyzacja mailowa.
    * **[Zobacz projekt VBA na GitHubie](https://github.com/katarzyna90kalinowska/Automated_Procurement_Reporting_VBA)**
 
-6. **🗄️ SQL Data Analysis Portfolio**
+7. **🗄️ SQL Data Analysis Portfolio**
    * **Opis:** Zbiór zaawansowanych zapytań SQL opartych na bazach relacyjnych (Northwind), obejmujący filtrowanie, agregacje, łączenia tabel (`JOIN`) oraz zaawansowane funkcje okna (`OVER`, `PARTITION BY`).
    * **Narzędzia:** SQL, Relacyjne bazy danych.
    * **[Zobacz zapytania SQL na GitHubie](https://github.com/katarzyna90kalinowska/SQL_Data_Analysis_Portfolio)**
 
-7. **🍃 NoSQL MongoDB Database Project**
+8. **🍃 NoSQL MongoDB Database Project**
    * **Opis:** Projekt bazy danych NoSQL wdrożonej w kontenerze Docker, zawierający kolekcje z zagnieżdżonymi dokumentami o zróżnicowanej strukturze oraz operacje wstawiania i przeszukiwania danych.
    * **Narzędzia:** MongoDB, Docker, NoSQL.
    * **[Zobacz projekt MongoDB na GitHubie](https://github.com/katarzyna90kalinowska/NoSQL_MongoDB_Database_Project)**
