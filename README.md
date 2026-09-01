@@ -9,7 +9,7 @@ Naturalnym krokiem w moim rozwoju zawodowym jest pełne przejście w stronę ana
 * 💻 **Stack technologiczny:** SQL, Python (Pandas, NumPy), R, Power BI, zaawansowany Excel, statystyka oraz MongoDB.
 * ⚙️ **Automatyzacja i Procesy:** Modelowanie procesów (BPMN), robotyzacja stanowisk przemysłowych, automatyzacja operacji (Zapier, Python) oraz wizualizacja danych (Power BI).
 
-Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodzi mi najlepiej: transformacji danych w użyteczną wiedzę biznesową. Zapraszam do zapoznania się z moimi 14 projektami poniżej!
+Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodzi mi najlepiej: transformacji danych w użyteczną wiedzę biznesową. Zapraszam do zapoznania się z moimi projektami poniżej!
 
 ---
 
@@ -80,13 +80,7 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
     * **Narzędzia:** Google Sheets, Google Apps Script, JavaScript, Gmail API.
     * **[Zobacz projekt w Apps Script na GitHubie](https://github.com/katarzyna90kalinowska/Gmail_Quarterly_Billing_Automation)**
 
-14. **📂 Profil i Repozytorium Ogólne Katarzyny**
-    * **Opis:** Główna przestrzeń profilowa na GitHubie grupująca dokumentację, szablony projektowe oraz pliki konfiguracyjne wspierające codzienne analizy i warsztat analityka danych.
-    * **Narzędzia:** Git, GitHub, Markdown.
-    * **[Zobacz profil główny na GitHubie](https://github.com/katarzyna90kalinowska/katarzyna90kalinowska)**
-
 ---
 
 ### 📫 Skontaktuj się ze mną:
 * **LinkedIn:** [www.linkedin.com/in/katarzyna90kalinowska](https://www.linkedin.com/in/katarzyna90kalinowska)
-* **E-mail:** katarzyna90.kalinowska@wp.pl
