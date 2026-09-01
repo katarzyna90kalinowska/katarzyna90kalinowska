@@ -9,15 +9,15 @@ Naturalnym krokiem w moim rozwoju zawodowym jest pełne przejście w stronę ana
 * 💻 **Stack technologiczny:** SQL, Python (Pandas, NumPy), R, Power BI, zaawansowany Excel, statystyka oraz MongoDB.
 * ⚙️ **Automatyzacja i Procesy:** Modelowanie procesów (BPMN), robotyzacja stanowisk przemysłowych, automatyzacja operacji (Zapier, Python) oraz wizualizacja danych (Power BI).
 
-Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodzi mi najlepiej: transformacji danych w użyteczną wiedzę biznesową. Zapraszam do zapoznania się z moimi projektami poniżej!
+Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodzi mi najlepiej: transformacji danych w użyteczną wiedzę biznesową. Zapraszam do zapoznania się z moimi 14 projektami poniżej!
 
 ---
 
 ### 🚀 Wybrane Projekty Portfolio
 
 1. **🎓 Master's Thesis: Business Process Automation & AI**
-   * **Opis:** Kompleksowy projekt badawczy analizujący wpływ automatyzacji, sztucznej inteligencji i analizy danych na efektywność organizacji[cite: 13]. Badanie empiryczne na próbie 115 respondentów[cite: 13], wsparte statystyką opisową, korelacjami Spearmana oraz modelami regresji liniowej i wielorakiej[cite: 13].
-   * **Narzędzia:** Python, SQL, Power BI, Statystyka wielowymiarowa, Excel[cite: 13].
+   * **Opis:** Kompleksowy projekt badawczy analizujący wpływ automatyzacji, sztucznej inteligencji i analizy danych na efektywność organizacji. Badanie empiryczne na próbie 115 respondentów, wsparte statystyką opisową, korelacjami Spearmana oraz modelami regresji liniowej i wielorakiej.
+   * **Narzędzia:** Python, SQL, Power BI, Statystyka wielowymiarowa, Excel.
    * **[Zobacz projekt pracy magisterskiej na GitHubie](https://github.com/katarzyna90kalinowska/Master_Thesis_Business_Process_Automation_and_AI)**
 
 2. **📊 Wpływ automatyzacji, AI i analizy danych na efektywność w organizacji (Praca Magisterska - Power BI & Zapier)**
@@ -26,8 +26,8 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
    * **[Zobacz raport i podgląd w Power BI](https://github.com/katarzyna90kalinowska/PowerBI_Master_Thesis_Analytics)**
 
 3. **🤖 Robotics & Palletization Investment Project**
-   * **Opis:** Studium wykonalności, analiza wąskich gardeł linii produkcyjnej oraz modelowanie finansowe ROI dla zrobotyzowanego stanowiska paletyzacji[cite: 8].
-   * **Narzędzia:** Excel (Analiza kosztów i ROI), Inżynieria produkcji, Symulacja stanowiska[cite: 8].
+   * **Opis:** Studium wykonalności, analiza wąskich gardeł linii produkcyjnej oraz modelowanie finansowe ROI dla zrobotyzowanego stanowiska paletyzacji.
+   * **Narzędzia:** Excel (Analiza kosztów i ROI), Inżynieria produkcji, Symulacja stanowiska.
    * **[Zobacz projekt robotyzacji na GitHubie](https://github.com/katarzyna90kalinowska/Robotics_and_Palletization_Investment_Project)**
 
 4. **📈 Strategic Management & Business Analysis Portfolio (Wawel S.A.)**
@@ -36,18 +36,18 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
    * **[Zobacz analizę strategiczną na GitHubie](https://github.com/katarzyna90kalinowska/Strategic_Management_Business_Analysis)**
 
 5. **📈 Statistical Analysis & Hypothesis Testing Portfolio**
-   * **Opis:** Połączony projekt statystyczny obejmujący analizę opisową bezrobocia w Polsce (dane GUS 1990-2024 z histogramami i wykresami pudełkowymi)[cite: 10] oraz zestawienie testów nieparametrycznych (Wilcoxona, Manna-Whitneya, Kruskala-Wallisa)[cite: 11, 12].
-   * **Narzędzia:** Statystyka opisowa, Testowanie hipotez, Wizualizacje danych[cite: 10, 11, 12].
+   * **Opis:** Połączony projekt statystyczny obejmujący analizę opisową bezrobocia w Polsce (dane GUS 1990-2024 z histogramami i wykresami pudełkowymi) oraz zestawienie testów nieparametrycznych (Wilcoxona, Manna-Whitneya, Kruskala-Wallisa).
+   * **Narzędzia:** Statystyka opisowa, Testowanie hipotez, Wizualizacje danych.
    * **[Zobacz projekt statystyczny na GitHubie](https://github.com/katarzyna90kalinowska/Statistical_Analysis_and_Hypothesis_Testing)**
 
 6. **📈 R Multidimensional Scaling & Salary Analysis**
-   * **Opis:** Zaawansowana analiza statystyczna zróżnicowania wynagrodzeń w Polsce wg województw. Wykorzystanie skalowania wielowymiarowego (MDS / SMACOF), normalizacji ilorazowej oraz oceny dopasowania modelu[cite: 4, 7].
-   * **Narzędzia:** R (`smacof`, `clusterSim`)[cite: 7], Statystyka wielowymiarowa.
+   * **Opis:** Zaawansowana analiza statystyczna zróżnicowania wynagrodzeń w Polsce wg województw. Wykorzystanie skalowania wielowymiarowego (MDS / SMACOF), normalizacji ilorazowej oraz oceny dopasowania modelu.
+   * **Narzędzia:** R (`smacof`, `clusterSim`), Statystyka wielowymiarowa.
    * **[Zobacz projekt MDS w R na GitHubie](https://github.com/katarzyna90kalinowska/R_Multidimensional_Scaling_Salary_Analysis)**
 
 7. **📊 R Basics & Matrix Operations**
-   * **Opis:** Zbiór skryptów w R obejmujący operacje na macierzach, transformacje wektorów, podstawowe funkcje matematyczne oraz modelowanie liniowe (`lm`) na zbiorze `mtcars`[cite: 1, 2, 3].
-   * **Narzędzia:** R, Statystyka opisowa, Regresja liniowa[cite: 1].
+   * **Opis:** Zbiór skryptów w R obejmujący operacje na macierzach, transformacje wektorów, podstawowe funkcje matematyczne oraz modelowanie liniowe (`lm`) na zbiorze `mtcars`.
+   * **Narzędzia:** R, Statystyka opisowa, Regresja liniowa.
    * **[Zobacz skrypty R na GitHubie](https://github.com/katarzyna90kalinowska/R_Basics_and_Matrix_Operations)**
 
 8. **⚙️ Kompleksowy Projekt Modelowania Procesów (BPMN / ADONIS)**
@@ -74,6 +74,16 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
     * **Opis:** Projekt bazy danych NoSQL wdrożonej w kontenerze Docker, zawierający kolekcje z zagnieżdżonymi dokumentami o zróżnicowanej strukturze oraz operacje wstawiania i przeszukiwania danych.
     * **Narzędzia:** MongoDB, Docker, NoSQL.
     * **[Zobacz projekt MongoDB na GitHubie](https://github.com/katarzyna90kalinowska/NoSQL_MongoDB_Database_Project)**
+
+13. **✉️ Gmail Quarterly Billing Automation (Google Apps Script)**
+    * **Opis:** Zautomatyzowany system powiadomień kwartalnych dla dostawców oparty na Google Sheets oraz Google Apps Script. Skrypt dynamicznie weryfikuje statusy w arkuszu, personalizuje wiadomości z uwzględnieniem przepisów KSeF oraz klauzuli RODO, wysyła maile przez Gmail API i automatycznie aktualizuje statusy wraz z sygnaturą czasową.
+    * **Narzędzia:** Google Sheets, Google Apps Script, JavaScript, Gmail API.
+    * **[Zobacz projekt w Apps Script na GitHubie](https://github.com/katarzyna90kalinowska/Gmail_Quarterly_Billing_Automation)**
+
+14. **📂 Profil i Repozytorium Ogólne Katarzyny**
+    * **Opis:** Główna przestrzeń profilowa na GitHubie grupująca dokumentację, szablony projektowe oraz pliki konfiguracyjne wspierające codzienne analizy i warsztat analityka danych.
+    * **Narzędzia:** Git, GitHub, Markdown.
+    * **[Zobacz profil główny na GitHubie](https://github.com/katarzyna90kalinowska/katarzyna90kalinowska)**
 
 ---
 
