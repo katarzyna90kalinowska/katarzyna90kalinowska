@@ -6,8 +6,8 @@ Naturalnym krokiem w moim rozwoju zawodowym jest pełne przejście w stronę ana
 
 * 📈 **Doświadczenie operacyjne i biznesowe:** Praktyka w obszarze zaopatrzenia i analiz, logistyki (magazyn) oraz zarządzania własną działalnością (studio reklamy).
 * 🎓 **Wykształcenie kierunkowe:** Podwójna specjalizacja na studiach magisterskich: **Analiza danych** oraz **Cyfryzacja i automatyzacja procesów produkcyjnych**, uzupełniona studiami podyplomowymi z **Data Science**.
-* 💻 **Stack technologiczny:** SQL, Python (Pandas, NumPy), R, Power BI, zaawansowany Excel, statystyka oraz MongoDB.
-* ⚙️ **Automatyzacja i Procesy:** Modelowanie procesów (BPMN), robotyzacja stanowisk przemysłowych, automatyzacja operacji (Zapier, Python) oraz wizualizacja danych (Power BI).
+* 💻 **Stack technologiczny:** SQL, Python (Pandas, NumPy, Scikit-Learn), R, Power BI, Google Apps Script / JavaScript, zaawansowany Excel, statystyka oraz MongoDB.
+* ⚙️ **Automatyzacja i Procesy:** Modelowanie procesów (BPMN), robotyzacja stanowisk przemysłowych, automatyzacja operacji (Zapier, Python, VBA) oraz wizualizacja danych (Power BI).
 
 Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodzi mi najlepiej: transformacji danych w użyteczną wiedzę biznesową. Zapraszam do zapoznania się z moimi projektami poniżej!
 
@@ -84,3 +84,4 @@ Rozwijam się w kierunku Junior Data Analyst, skupiając się na tym, co wychodz
 
 ### 📫 Skontaktuj się ze mną:
 * **LinkedIn:** [www.linkedin.com/in/katarzyna90kalinowska](https://www.linkedin.com/in/katarzyna90kalinowska)
+* **E-mail:** katarzyna90.kalinowska@wp.pl
